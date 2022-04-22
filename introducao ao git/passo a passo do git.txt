@@ -1,0 +1,14 @@
+Para subir o que fiz para o repositorio eu segui este passo a passo:
+
+0º baixei e instalei o Git no meu computador o link esta no README.md no inicio do projeto
+1º criei uma conta na nuvem GitHub link esta no README.md no inicio do projeto
+2º entrei na conta e criei um repositorio
+3º após a criação eu peguei o link para clone do projeto no botão verde "Code". 
+ALERTA:  lembrando que o botão so aparece quando você entra dentro do repositório
+4º criei uma pasta no meu computador
+5º entrei na pasta e abri o git Bash Here
+6º comandos
+6.1 - git clone "aqui você informa o link que você copiou la no repositorio https clone"
+6.2 - git add -A 
+6.3 - git commit -m "comentario do projeto e a explicação do que foi feito"
+6.4 - git push origin main  "esse comando sobre todo o que foi feito para o repositorio no GitHub" 
